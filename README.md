@@ -8,6 +8,27 @@ I’m **Hendra Irawan**, a developer who enjoys building thoughtful software fro
 
 I work across native macOS apps, web projects, and small developer tools—with a particular interest in useful AI, expressive interaction, and polished product details.
 
+## `hendra@github:~$ dashboard --live`
+
+<p align="center">
+  <a href="https://github.com/HendraaaIrwn">
+    <img height="165" alt="Live GitHub statistics for Hendra Irawan" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HendraaaIrwn&amp;theme=tokyonight" />
+  </a>
+  <a href="https://github.com/HendraaaIrwn">
+    <img height="165" alt="Current GitHub contribution streak for Hendra Irawan" src="https://streak-stats.demolab.com?user=HendraaaIrwn&amp;theme=tokyonight&amp;hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HendraaaIrwn?tab=repositories">
+    <img height="165" alt="Most-used public languages by Hendra Irawan" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HendraaaIrwn&amp;theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Live GitHub metrics for activity, consistency, and public languages.</sub>
+</p>
+
 ## `hendra@github:~$ cat about.txt`
 
 ```text
