@@ -1,0 +1,42 @@
+name: Update profile activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-readme
+  cancel-in-progress: false
+
+jobs:
+  recent-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v5
+
+      - name: Build recent public activity
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const updateActivity = require('./.github/scripts/update-recent-activity.cjs')
+            await updateActivity({ github, context, core })
+
+      - name: Publish activity update
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No activity changes to publish."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- README.md
+          git commit -m "chore: update recent activity"
+          git push

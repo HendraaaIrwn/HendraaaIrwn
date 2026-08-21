@@ -1,6 +1,17 @@
-# Hendra Irawan
+<h1 align="center">Hendra Irawan</h1>
 
-🟢 Full-stack developer · design enthusiast · indie maker
+<p align="center">
+  <strong>Full-stack developer · design enthusiast · indie maker</strong><br />
+  <sub>Native apps · developer tools · playful AI products</sub>
+</p>
+
+<p align="center">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&amp;logo=swift&amp;logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" />
+  <img alt="Product Design" src="https://img.shields.io/badge/Product_Design-FF4ECD?style=for-the-badge" />
+  <img alt="AI Builder" src="https://img.shields.io/badge/AI_Builder-7C3AED?style=for-the-badge" />
+</p>
 
 ## `hendra@github:~$ whoami`
 
@@ -12,16 +23,19 @@ I work across native macOS apps, web projects, and small developer tools—with 
 
 <p align="center">
   <a href="https://github.com/HendraaaIrwn">
-    <img height="165" alt="Live GitHub statistics for Hendra Irawan" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HendraaaIrwn&amp;theme=tokyonight" />
+    <img height="165" alt="Live GitHub statistics for Hendra Irawan" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HendraaaIrwn&amp;theme=2077" />
   </a>
   <a href="https://github.com/HendraaaIrwn">
-    <img height="165" alt="Current GitHub contribution streak for Hendra Irawan" src="https://streak-stats.demolab.com?user=HendraaaIrwn&amp;theme=tokyonight&amp;hide_border=true" />
+    <img height="165" alt="Current GitHub contribution streak for Hendra Irawan" src="https://streak-stats.demolab.com?user=HendraaaIrwn&amp;theme=radical&amp;hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/HendraaaIrwn?tab=repositories">
-    <img height="165" alt="Most-used public languages by Hendra Irawan" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HendraaaIrwn&amp;theme=tokyonight" />
+    <img height="165" alt="Most-used public languages by Hendra Irawan" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HendraaaIrwn&amp;theme=2077" />
+  </a>
+  <a href="https://github.com/HendraaaIrwn">
+    <img height="165" alt="Most productive coding hours for Hendra Irawan" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HendraaaIrwn&amp;theme=2077&amp;utcOffset=7" />
   </a>
 </p>
 
@@ -79,15 +93,23 @@ Tools and experimentation
 └── AI / RAG product exploration
 ```
 
-## `hendra@github:~$ git log --activity`
+## `hendra@github:~$ git graph --contributions --live`
 
-```text
-2026-07-26  feat: continued public work on LegalRAG_AI
-2026-07-14  feat: published Conductor, an original terminal railway animation
-2026-06-20  feat: built Milo, a local-first macOS coding companion
-```
+<p align="center">
+  <a href="https://github.com/HendraaaIrwn">
+    <img width="100%" alt="Live contribution graph for Hendra Irawan" src="https://github-readme-activity-graph.vercel.app/graph?username=HendraaaIrwn&amp;bg_color=0d1117&amp;color=00e5ff&amp;line=ff4ecd&amp;point=ffffff&amp;area=true&amp;area_color=7c3aed&amp;hide_border=true&amp;custom_title=Contribution%20Graph" />
+  </a>
+</p>
 
-See my [public contribution history](https://github.com/HendraaaIrwn) for the latest activity.
+## `hendra@github:~$ git log --activity --follow`
+
+<!--RECENT_ACTIVITY:start-->
+- Initializing the live public activity feed…
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<sub>The feed syncs automatically every six hours.</sub>
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ## `hendra@github:~$ contact`
 
