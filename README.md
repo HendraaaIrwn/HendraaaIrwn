@@ -93,6 +93,20 @@ Tools and experimentation
 └── AI / RAG product exploration
 ```
 
+## `hendra@github:~$ wakatime --last-7-days --live`
+
+<p align="center">
+  <a href="https://wakatime.com/@neuhendra">
+    <img width="100%" alt="Live WakaTime coding activity for Hendra Irawan over the last seven days" src="./assets/wakatime.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@neuhendra">
+    <img alt="Total coding time tracked by WakaTime" src="https://wakatime.com/badge/user/45c718ad-c2fd-444c-a66d-015d95c2c7dd.svg" />
+  </a>
+</p>
+
 ## `hendra@github:~$ git graph --contributions --live`
 
 <p align="center">

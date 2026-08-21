@@ -22,6 +22,8 @@ jobs:
 
       - name: Build recent public activity
         uses: actions/github-script@v9
+        env:
+          WAKATIME_USERNAME: neuhendra
         with:
           script: |
             const updateActivity = require('./.github/scripts/update-recent-activity.cjs')
@@ -30,13 +32,13 @@ jobs:
       - name: Publish activity update
         shell: bash
         run: |
-          if git diff --quiet -- README.md; then
-            echo "No activity changes to publish."
+          if git diff --quiet -- README.md assets/wakatime.svg; then
+            echo "No profile changes to publish."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- README.md
-          git commit -m "chore: update recent activity"
+          git add -- README.md assets/wakatime.svg
+          git commit -m "chore: update live profile metrics"
           git push
