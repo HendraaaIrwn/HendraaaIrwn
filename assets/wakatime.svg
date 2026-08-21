@@ -21,25 +21,25 @@
   <text x="28" y="191" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">DAILY AVERAGE</text>
   <text x="28" y="242" fill="#a5b4fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">wakatime.com/@neuhendra</text>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
-    <text x="250" y="62" fill="#f8fafc" font-size="13" font-weight="600">Other</text>
-    <text x="724" y="62" fill="#a5b4fc" font-size="12" text-anchor="end">7 hrs 51 mins · 32.8%</text>
-    <rect x="250" y="71" width="300" height="8" rx="4" fill="#20263a" />
-    <rect x="250" y="71" width="99" height="8" rx="4" fill="#00e5ff" />
-    <text x="250" y="102" fill="#f8fafc" font-size="13" font-weight="600">TypeScript</text>
-    <text x="724" y="102" fill="#a5b4fc" font-size="12" text-anchor="end">7 hrs 28 mins · 31.2%</text>
-    <rect x="250" y="111" width="300" height="8" rx="4" fill="#20263a" />
-    <rect x="250" y="111" width="94" height="8" rx="4" fill="#ff4ecd" />
-    <text x="250" y="142" fill="#f8fafc" font-size="13" font-weight="600">Swift</text>
-    <text x="724" y="142" fill="#a5b4fc" font-size="12" text-anchor="end">2 hrs 56 mins · 12.3%</text>
-    <rect x="250" y="151" width="300" height="8" rx="4" fill="#20263a" />
-    <rect x="250" y="151" width="37" height="8" rx="4" fill="#a855f7" />
-    <text x="250" y="182" fill="#f8fafc" font-size="13" font-weight="600">JavaScript</text>
-    <text x="724" y="182" fill="#a5b4fc" font-size="12" text-anchor="end">1 hr 30 mins · 6.3%</text>
-    <rect x="250" y="191" width="300" height="8" rx="4" fill="#20263a" />
-    <rect x="250" y="191" width="19" height="8" rx="4" fill="#f9c74f" />
-    <text x="250" y="222" fill="#f8fafc" font-size="13" font-weight="600">CSS</text>
-    <text x="724" y="222" fill="#a5b4fc" font-size="12" text-anchor="end">1 hr 7 mins · 4.7%</text>
-    <rect x="250" y="231" width="300" height="8" rx="4" fill="#20263a" />
-    <rect x="250" y="231" width="14" height="8" rx="4" fill="#22c55e" />
+      <text x="250" y="62" fill="#f8fafc" font-size="13" font-weight="600">Other</text>
+      <text x="724" y="62" fill="#a5b4fc" font-size="12" text-anchor="end">7 hrs 51 mins · 32.8%</text>
+      <rect x="250" y="71" width="300" height="8" rx="4" fill="#20263a" />
+      <rect x="250" y="71" width="99" height="8" rx="4" fill="#00e5ff" />
+      <text x="250" y="102" fill="#f8fafc" font-size="13" font-weight="600">TypeScript</text>
+      <text x="724" y="102" fill="#a5b4fc" font-size="12" text-anchor="end">7 hrs 28 mins · 31.2%</text>
+      <rect x="250" y="111" width="300" height="8" rx="4" fill="#20263a" />
+      <rect x="250" y="111" width="94" height="8" rx="4" fill="#ff4ecd" />
+      <text x="250" y="142" fill="#f8fafc" font-size="13" font-weight="600">Swift</text>
+      <text x="724" y="142" fill="#a5b4fc" font-size="12" text-anchor="end">2 hrs 56 mins · 12.3%</text>
+      <rect x="250" y="151" width="300" height="8" rx="4" fill="#20263a" />
+      <rect x="250" y="151" width="37" height="8" rx="4" fill="#a855f7" />
+      <text x="250" y="182" fill="#f8fafc" font-size="13" font-weight="600">JavaScript</text>
+      <text x="724" y="182" fill="#a5b4fc" font-size="12" text-anchor="end">1 hr 30 mins · 6.3%</text>
+      <rect x="250" y="191" width="300" height="8" rx="4" fill="#20263a" />
+      <rect x="250" y="191" width="19" height="8" rx="4" fill="#f9c74f" />
+      <text x="250" y="222" fill="#f8fafc" font-size="13" font-weight="600">CSS</text>
+      <text x="724" y="222" fill="#a5b4fc" font-size="12" text-anchor="end">1 hr 7 mins · 4.7%</text>
+      <rect x="250" y="231" width="300" height="8" rx="4" fill="#20263a" />
+      <rect x="250" y="231" width="14" height="8" rx="4" fill="#22c55e" />
   </g>
 </svg>
