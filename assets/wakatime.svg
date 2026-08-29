@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270" role="img" aria-labelledby="title description">
   <title id="title">WakaTime coding activity for the last seven days</title>
-  <desc id="description">8 hrs 15 mins total coding time with a daily average of 1 hr 22 mins</desc>
+  <desc id="description">7 hrs 25 mins total coding time with a daily average of 1 hr 29 mins</desc>
   <defs>
     <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#00e5ff" />
@@ -15,31 +15,31 @@
   <rect x="1" y="1" width="758" height="268" rx="18" fill="#0d1117" stroke="url(#border)" stroke-width="2" />
   <rect x="2" y="2" width="756" height="266" rx="17" fill="url(#glow)" />
   <text x="28" y="34" fill="#00e5ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700">WAKATIME · LAST 7 DAYS</text>
-  <text x="28" y="91" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="800">8 hrs 15 mins</text>
+  <text x="28" y="91" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="800">7 hrs 25 mins</text>
   <text x="28" y="114" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">TOTAL CODING TIME</text>
-  <text x="28" y="169" fill="#ff4ecd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23" font-weight="700">1 hr 22 mins</text>
+  <text x="28" y="169" fill="#ff4ecd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23" font-weight="700">1 hr 29 mins</text>
   <text x="28" y="191" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">DAILY AVERAGE</text>
   <text x="28" y="242" fill="#a5b4fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">wakatime.com/@neuhendra</text>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
       <text x="250" y="62" fill="#f8fafc" font-size="13" font-weight="600">Other</text>
-      <text x="724" y="62" fill="#a5b4fc" font-size="12" text-anchor="end">7 hrs 10 mins · 46.5%</text>
+      <text x="724" y="62" fill="#a5b4fc" font-size="12" text-anchor="end">6 hrs 36 mins · 47.1%</text>
       <rect x="250" y="71" width="300" height="8" rx="4" fill="#20263a" />
-      <rect x="250" y="71" width="140" height="8" rx="4" fill="#00e5ff" />
+      <rect x="250" y="71" width="141" height="8" rx="4" fill="#00e5ff" />
       <text x="250" y="102" fill="#f8fafc" font-size="13" font-weight="600">Swift</text>
-      <text x="724" y="102" fill="#a5b4fc" font-size="12" text-anchor="end">5 hrs 55 mins · 38.5%</text>
+      <text x="724" y="102" fill="#a5b4fc" font-size="12" text-anchor="end">5 hrs 42 mins · 40.6%</text>
       <rect x="250" y="111" width="300" height="8" rx="4" fill="#20263a" />
-      <rect x="250" y="111" width="115" height="8" rx="4" fill="#ff4ecd" />
+      <rect x="250" y="111" width="122" height="8" rx="4" fill="#ff4ecd" />
       <text x="250" y="142" fill="#f8fafc" font-size="13" font-weight="600">YAML</text>
-      <text x="724" y="142" fill="#a5b4fc" font-size="12" text-anchor="end">52 mins · 5.7%</text>
+      <text x="724" y="142" fill="#a5b4fc" font-size="12" text-anchor="end">36 mins · 4.3%</text>
       <rect x="250" y="151" width="300" height="8" rx="4" fill="#20263a" />
-      <rect x="250" y="151" width="17" height="8" rx="4" fill="#a855f7" />
+      <rect x="250" y="151" width="13" height="8" rx="4" fill="#a855f7" />
       <text x="250" y="182" fill="#f8fafc" font-size="13" font-weight="600">Markdown</text>
-      <text x="724" y="182" fill="#a5b4fc" font-size="12" text-anchor="end">47 mins · 5.2%</text>
+      <text x="724" y="182" fill="#a5b4fc" font-size="12" text-anchor="end">29 mins · 3.5%</text>
       <rect x="250" y="191" width="300" height="8" rx="4" fill="#20263a" />
-      <rect x="250" y="191" width="16" height="8" rx="4" fill="#f9c74f" />
+      <rect x="250" y="191" width="11" height="8" rx="4" fill="#f9c74f" />
       <text x="250" y="222" fill="#f8fafc" font-size="13" font-weight="600">Image (jpeg)</text>
-      <text x="724" y="222" fill="#a5b4fc" font-size="12" text-anchor="end">19 mins · 2.1%</text>
+      <text x="724" y="222" fill="#a5b4fc" font-size="12" text-anchor="end">19 mins · 2.3%</text>
       <rect x="250" y="231" width="300" height="8" rx="4" fill="#20263a" />
-      <rect x="250" y="231" width="6" height="8" rx="4" fill="#22c55e" />
+      <rect x="250" y="231" width="7" height="8" rx="4" fill="#22c55e" />
   </g>
 </svg>
