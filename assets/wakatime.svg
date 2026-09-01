@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270" role="img" aria-labelledby="title description">
   <title id="title">WakaTime coding activity for the last seven days</title>
-  <desc id="description">5 hrs 54 mins total coding time with a daily average of 1 hr 28 mins</desc>
+  <desc id="description">7 hrs 44 mins total coding time with a daily average of 1 hr 56 mins</desc>
   <defs>
     <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#00e5ff" />
@@ -15,30 +15,30 @@
   <rect x="1" y="1" width="758" height="268" rx="18" fill="#0d1117" stroke="url(#border)" stroke-width="2" />
   <rect x="2" y="2" width="756" height="266" rx="17" fill="url(#glow)" />
   <text x="28" y="34" fill="#00e5ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700">WAKATIME · LAST 7 DAYS</text>
-  <text x="28" y="91" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="800">5 hrs 54 mins</text>
+  <text x="28" y="91" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="800">7 hrs 44 mins</text>
   <text x="28" y="114" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">TOTAL CODING TIME</text>
-  <text x="28" y="169" fill="#ff4ecd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23" font-weight="700">1 hr 28 mins</text>
+  <text x="28" y="169" fill="#ff4ecd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23" font-weight="700">1 hr 56 mins</text>
   <text x="28" y="191" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">DAILY AVERAGE</text>
   <text x="28" y="242" fill="#a5b4fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">wakatime.com/@neuhendra</text>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
       <text x="250" y="62" fill="#f8fafc" font-size="13" font-weight="600">Other</text>
-      <text x="724" y="62" fill="#a5b4fc" font-size="12" text-anchor="end">5 hrs 5 mins · 46.3%</text>
+      <text x="724" y="62" fill="#a5b4fc" font-size="12" text-anchor="end">8 hrs 32 mins · 52.4%</text>
       <rect x="250" y="71" width="300" height="8" rx="4" fill="#20263a" />
-      <rect x="250" y="71" width="139" height="8" rx="4" fill="#00e5ff" />
+      <rect x="250" y="71" width="157" height="8" rx="4" fill="#00e5ff" />
       <text x="250" y="102" fill="#f8fafc" font-size="13" font-weight="600">Swift</text>
-      <text x="724" y="102" fill="#a5b4fc" font-size="12" text-anchor="end">4 hrs 46 mins · 43.3%</text>
+      <text x="724" y="102" fill="#a5b4fc" font-size="12" text-anchor="end">5 hrs 56 mins · 36.5%</text>
       <rect x="250" y="111" width="300" height="8" rx="4" fill="#20263a" />
-      <rect x="250" y="111" width="130" height="8" rx="4" fill="#ff4ecd" />
+      <rect x="250" y="111" width="110" height="8" rx="4" fill="#ff4ecd" />
       <text x="250" y="142" fill="#f8fafc" font-size="13" font-weight="600">Git Config</text>
-      <text x="724" y="142" fill="#a5b4fc" font-size="12" text-anchor="end">46 mins · 7.1%</text>
+      <text x="724" y="142" fill="#a5b4fc" font-size="12" text-anchor="end">46 mins · 4.8%</text>
       <rect x="250" y="151" width="300" height="8" rx="4" fill="#20263a" />
-      <rect x="250" y="151" width="21" height="8" rx="4" fill="#a855f7" />
+      <rect x="250" y="151" width="14" height="8" rx="4" fill="#a855f7" />
       <text x="250" y="182" fill="#f8fafc" font-size="13" font-weight="600">YAML</text>
-      <text x="724" y="182" fill="#a5b4fc" font-size="12" text-anchor="end">11 mins · 1.8%</text>
+      <text x="724" y="182" fill="#a5b4fc" font-size="12" text-anchor="end">36 mins · 3.8%</text>
       <rect x="250" y="191" width="300" height="8" rx="4" fill="#20263a" />
-      <rect x="250" y="191" width="5" height="8" rx="4" fill="#f9c74f" />
-      <text x="250" y="222" fill="#f8fafc" font-size="13" font-weight="600">XML</text>
-      <text x="724" y="222" fill="#a5b4fc" font-size="12" text-anchor="end">5 mins · 0.8%</text>
+      <rect x="250" y="191" width="11" height="8" rx="4" fill="#f9c74f" />
+      <text x="250" y="222" fill="#f8fafc" font-size="13" font-weight="600">JSON</text>
+      <text x="724" y="222" fill="#a5b4fc" font-size="12" text-anchor="end">7 mins · 0.8%</text>
       <rect x="250" y="231" width="300" height="8" rx="4" fill="#20263a" />
       <rect x="250" y="231" width="3" height="8" rx="4" fill="#22c55e" />
   </g>
