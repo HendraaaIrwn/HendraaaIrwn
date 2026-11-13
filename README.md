@@ -118,16 +118,16 @@ Tools and experimentation
 ## `hendra@github:~$ git log --activity --follow`
 
 <!--RECENT_ACTIVITY:start-->
+- 🍴 Forked [indrazm/review-this](https://github.com/indrazm/review-this)
+- ⭐ Starred [hishnash/awesome-ios-books](https://github.com/hishnash/awesome-ios-books)
 - 📦 Created branch in [pibeebee/C67](https://github.com/pibeebee/C67)
 - 📦 Created branch in [pibeebee/C67](https://github.com/pibeebee/C67)
 - 🔀 merged a pull request in [pibeebee/C67](https://github.com/pibeebee/C67)
 - 🔀 merged a pull request in [pibeebee/C67](https://github.com/pibeebee/C67)
-- 🔀 opened a pull request in [pibeebee/C67](https://github.com/pibeebee/C67)
-- 📦 Created branch in [pibeebee/C67](https://github.com/pibeebee/C67)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<sub>Last synced 13 Nov 2026, 13:55 · Asia/Jakarta</sub>
+<sub>Last synced 14 Nov 2026, 02:50 · Asia/Jakarta</sub>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## `hendra@github:~$ contact`
