@@ -118,16 +118,16 @@ Tools and experimentation
 ## `hendra@github:~$ git log --activity --follow`
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+- ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+- ⭐ Starred [bangunindo/patrolli](https://github.com/bangunindo/patrolli)
+- ⭐ Starred [bangunindo/prometheus-scraper](https://github.com/bangunindo/prometheus-scraper)
 - 🍴 Forked [indrazm/review-this](https://github.com/indrazm/review-this)
 - ⭐ Starred [hishnash/awesome-ios-books](https://github.com/hishnash/awesome-ios-books)
-- 📦 Created branch in [pibeebee/C67](https://github.com/pibeebee/C67)
-- 📦 Created branch in [pibeebee/C67](https://github.com/pibeebee/C67)
-- 🔀 merged a pull request in [pibeebee/C67](https://github.com/pibeebee/C67)
-- 🔀 merged a pull request in [pibeebee/C67](https://github.com/pibeebee/C67)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<sub>Last synced 16 Nov 2026, 01:56 · Asia/Jakarta</sub>
+<sub>Last synced 16 Nov 2026, 13:44 · Asia/Jakarta</sub>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## `hendra@github:~$ contact`
