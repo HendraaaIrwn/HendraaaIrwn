@@ -118,16 +118,16 @@ Tools and experimentation
 ## `hendra@github:~$ git log --activity --follow`
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [MattYudha/Frontend-Elysian-Rebirth](https://github.com/MattYudha/Frontend-Elysian-Rebirth)
 - ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)
 - ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 - ⭐ Starred [bangunindo/patrolli](https://github.com/bangunindo/patrolli)
 - ⭐ Starred [bangunindo/prometheus-scraper](https://github.com/bangunindo/prometheus-scraper)
 - 🍴 Forked [indrazm/review-this](https://github.com/indrazm/review-this)
-- ⭐ Starred [hishnash/awesome-ios-books](https://github.com/hishnash/awesome-ios-books)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<sub>Last synced 17 Nov 2026, 05:17 · Asia/Jakarta</sub>
+<sub>Last synced 17 Nov 2026, 15:05 · Asia/Jakarta</sub>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## `hendra@github:~$ contact`
